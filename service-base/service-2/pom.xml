@@ -14,10 +14,6 @@
   <dependencies>
     <dependency>
       <groupId>life.kyon</groupId>
-      <artifactId>component-b</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>life.kyon</groupId>
       <artifactId>component-c</artifactId>
     </dependency>
   </dependencies>
