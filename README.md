@@ -1,0 +1,1 @@
+介绍 maven 中 **BOM(Bills Of Material)** 的用法，更加方便的管理组件版本。
