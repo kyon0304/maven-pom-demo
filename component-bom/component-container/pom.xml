@@ -5,12 +5,14 @@
   <parent>
     <artifactId>component-bom</artifactId>
     <groupId>life.kyon</groupId>
-    <version>1.0</version>
+    <version>2.0</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
   <artifactId>component-container</artifactId>
   <packaging>pom</packaging>
+  <version>1.0</version>
+
   <modules>
     <module>component-a</module>
     <module>component-b</module>

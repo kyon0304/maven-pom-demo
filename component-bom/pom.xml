@@ -11,6 +11,7 @@
 
   <artifactId>component-bom</artifactId>
   <packaging>pom</packaging>
+  <version>2.0</version>
 
   <modules>
     <module>component-container</module>
@@ -26,12 +27,12 @@
       <dependency>
         <groupId>life.kyon</groupId>
         <artifactId>component-b</artifactId>
-        <version>1.0</version>
+        <version>2.0</version>
       </dependency>
       <dependency>
         <groupId>life.kyon</groupId>
         <artifactId>component-c</artifactId>
-        <version>1.0</version>
+        <version>2.0</version>
       </dependency>
     </dependencies>
   </dependencyManagement>
